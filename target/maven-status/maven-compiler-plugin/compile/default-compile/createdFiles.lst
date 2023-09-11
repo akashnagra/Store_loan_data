@@ -1,0 +1,4 @@
+com\loanstore\App.class
+com\loanstore\Loan.class
+com\loanstore\LoanValidationException.class
+com\loanstore\LoanStore.class
